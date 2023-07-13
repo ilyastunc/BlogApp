@@ -1,0 +1,20 @@
+@model Category
+@{
+    ViewData["Title"] = "Category AddOrUpdate";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container mt-3">
+    <h2>Category Add Or Update</h2>
+    <br>
+
+    <form asp-controller="Category" asp-action="AddOrUpdate" method="post">
+        <input type="hidden" asp-for="CategoryId">
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

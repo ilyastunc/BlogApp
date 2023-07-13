@@ -1,0 +1,19 @@
+{
+  "name": "BlogApp.WebUI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "ckeditor": "^4.12.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.0",
+    "tether": "^2.0.0"
+  }
+}

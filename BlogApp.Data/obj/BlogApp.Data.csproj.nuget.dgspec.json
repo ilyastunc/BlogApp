@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/BlogApp.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/BlogApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/BlogApp.Data.csproj",
+        "projectName": "BlogApp.Data",
+        "projectPath": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/BlogApp.Data.csproj",
+        "packagesPath": "/Users/tunc/.nuget/packages/",
+        "outputPath": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tunc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/BlogApp.Entity.csproj": {
+                "projectPath": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/BlogApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/BlogApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/BlogApp.Entity.csproj",
+        "projectName": "BlogApp.Entity",
+        "projectPath": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/BlogApp.Entity.csproj",
+        "packagesPath": "/Users/tunc/.nuget/packages/",
+        "outputPath": "/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tunc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

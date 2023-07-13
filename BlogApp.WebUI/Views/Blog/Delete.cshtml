@@ -1,0 +1,17 @@
+@model Blog
+@{
+    ViewData["Title"] = "Blog Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container mt-3">
+    <h2><b>@Model.Title</b> isimli kaydı silmek istediğinize emin misiniz? </h2>
+    <br>
+
+    <form asp-controller="Blog" asp-action="Delete" method="post">
+        <input type="hidden" asp-for="BlogId">
+        
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </form>
+</div>

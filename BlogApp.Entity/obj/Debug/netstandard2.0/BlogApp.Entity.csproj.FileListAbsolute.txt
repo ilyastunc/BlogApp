@@ -1,0 +1,9 @@
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/bin/Debug/netstandard2.0/BlogApp.Entity.deps.json
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/bin/Debug/netstandard2.0/BlogApp.Entity.dll
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/bin/Debug/netstandard2.0/BlogApp.Entity.pdb
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.csprojAssemblyReference.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.csproj.CoreCompileInputs.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.AssemblyInfoInputs.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.AssemblyInfo.cs
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.dll
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Entity/obj/Debug/netstandard2.0/BlogApp.Entity.pdb

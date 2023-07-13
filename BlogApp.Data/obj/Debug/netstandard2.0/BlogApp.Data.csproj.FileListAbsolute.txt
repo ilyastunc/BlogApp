@@ -1,0 +1,12 @@
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/bin/Debug/netstandard2.0/BlogApp.Data.deps.json
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/bin/Debug/netstandard2.0/BlogApp.Data.dll
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/bin/Debug/netstandard2.0/BlogApp.Data.pdb
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/bin/Debug/netstandard2.0/BlogApp.Entity.dll
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/bin/Debug/netstandard2.0/BlogApp.Entity.pdb
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.csprojAssemblyReference.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.csproj.CoreCompileInputs.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.AssemblyInfoInputs.cache
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.AssemblyInfo.cs
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.csproj.CopyComplete
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.dll
+/Users/tunc/Documents/C#/BlogApp/BlogApp.Data/obj/Debug/netstandard2.0/BlogApp.Data.pdb
